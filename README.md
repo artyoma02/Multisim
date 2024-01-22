@@ -1,2 +1,2 @@
 # Multisim
-Multisim projects
+Electrical circuit simulations using Multisim.
